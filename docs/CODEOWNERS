@@ -6,3 +6,5 @@
 
 # The 'hello.py' file is owned by 'python_owner'.
 /hello.py @lucienchemaly
+
+/tests/ @QATeam
