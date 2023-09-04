@@ -2,7 +2,7 @@
 # Each line is a file pattern followed by one or more owners.
 
 # These users are the default owners for everything in the repo.
-*       @default_owner
+*       @lucienchemaly
 
 # The 'hello.py' file is owned by 'python_owner'.
-/hello.py @python_owner
+/hello.py @lucienchemaly
